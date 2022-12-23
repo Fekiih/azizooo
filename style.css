@@ -1,0 +1,35 @@
+.b1{
+    background-color:#00ccb1;
+   }
+.b2{
+    background-color: #3d83df;
+   }
+.b3{
+    background-color: #1b2734;
+}
+.div{
+                    width:17% ;
+                    color: white;
+                    border-radius: 10px;
+                    padding-left:30px ;
+                    padding-right:30px ;
+                    padding-top:30px ;
+                    padding-bottom:30px ;                  
+                    }
+.formpad{padding-top:70px ;
+        }
+.sel{
+    border: none;
+    background: none;
+    color: white;
+    text-decoration: underline;
+
+
+    }
+.sel option{
+            color: black;
+
+           }
+.sel2{
+      padding-bottom: 30px;
+     }
